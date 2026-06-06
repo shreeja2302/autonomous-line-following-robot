@@ -53,14 +53,8 @@ This project involved the full hardware and software design of an autonomous lin
 
 ---
 
-## Media
-
-Photos and demo videos of the robot in action are available in the `/media` folder.
-
----
-
 ## Author
 
 **Shreeja Saha Roy**  
 B.Tech Computer Science & Engineering, KIIT Bhubaneswar  
-[LinkedIn](https://www.linkedin.com/in/shreeja-saha-roy/) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/shreeja-saha-roy/) · 
